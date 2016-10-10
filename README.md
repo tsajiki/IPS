@@ -3,4 +3,4 @@
 
 会誌の表紙・目次・短信の一覧です。1950年から2015年まで。
 
-Table of Contents, Japanese version only.
+Table of Contents 1950 - 2015. Japanese version only.
