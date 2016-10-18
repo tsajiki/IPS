@@ -1,4 +1,4 @@
-vol	no	number	year	month	feature	explanation_1	explanation_2	back	remark
+vol	no	number	year	month	feature	description_1	description_2	back	remark
 1	1	1	1950	1		ムジナモの花と葉輪擴大圖		ムジナモの花式圖	旧字体：擴大圖→拡大図、花式圖→花式図。通巻102号まで巻号表示はないが、63巻2号（通巻219号）の「会からのお知らせ – 食虫植物研究会々誌の保存処置について」により、102号以前にも巻号を表記した。
 1	2	2	1950	5		コウシンソウの全形（牧野博士原図）		コウシンソウの花式図	
 1	3	3	1950	7		ハイトリグサ Dionaea muscipula Ellis の全形と葉の拡大図		ハイトリグサの花式図	記載のまま：ハイトリグサ→ハエトリグサ
