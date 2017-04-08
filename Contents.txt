@@ -1,4 +1,4 @@
-number	section	sequence	name	title	start_page	end_page	remark
+number	section	order	name	title	start_page	end_page	remarks
 1		1	豊田 實	卷頭の辭			旧字体：卷頭の辭→巻頭の辞
 1		2	豊田 實	ムジナモの葉の形態的観察と其運動様相	1	8	編輯後記の誤記訂正により、本文中の題名のムヂナモはムジナモの誤記。
 1		3	田村 道子	創刊號發行にあたり	8		旧字体：創刊號發行→創刊号発行
