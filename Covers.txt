@@ -236,5 +236,6 @@ vol	no	number	year	month	feature	explanation_1	explanation_2	back	remarks
 67	2	235	2016	4		Nepenthes alata cv. Shibata	新品種ネペンテス・アラータ‘シバタ’ 2016年2月一正園にて 奥山 奈須子 撮影（短信欄参照）	三尾：ロゼットを形成する高地性ネペンテスと緑色のピッチャーをつけるグリーン・フォーム 三尾：熱帯高地性ウトリクラリア	
 67	3	236	2016	7		Drosera spatulata	コモウセンゴケ、5月19日 奄美大島にて 柴田 千晶 撮影	橋本・逸木・柴田：奄美大島自生地見学会（本文参照）	
 67	4	237	2016	10		N. x trusmadiensis, N. macrophylla	ネペンテス・マクロフィラとネ・トラスマディエンシス、2016年4月26日、ボルネオ Trus Madi 山にて 石川 美枝子 撮影	中神 由美子：当別町川下産タヌキモ自生沼、2016年7月18日 撮影	
-68	1	238	2017	1		Nepenthes edwardsiana(typical form)	Nepenthes edwardsiana(typical form)、自家栽培品、三尾 和久 撮影	三尾 和久：Nepenthes edwardsiana と Nepenthes veitchii（本文参照）
-68	2	239	2017	4		Drosera neocaledonica、ドロセラ・ネオカレドニカ、2012年ニューカレドニアにて、三野 善弘 撮影	三野 善弘：Drosera neocaledonica と Nepenthes vieillardii（本文参照）
+68	1	238	2017	1		Nepenthes edwardsiana(typical form)	Nepenthes edwardsiana(typical form)、自家栽培品、三尾 和久 撮影	三尾 和久：Nepenthes edwardsiana と Nepenthes veitchii（本文参照）	
+68	2	239	2017	4		Drosera neocaledonica	ドロセラ・ネオカレドニカ、2012年ニューカレドニアにて、三野 善弘 撮影	三野 善弘：Drosera neocaledonica と Nepenthes vieillardii（本文参照）	
+68	3	240	2017	7		田代平湿原	モウセンゴケの絨毯、田代平湿原にて、柴田 千晶 撮影	柴田 千晶：2017青森下北方面自生地見学会（本文参照）	
