@@ -239,3 +239,4 @@ vol	no	number	year	month	feature	explanation_1	explanation_2	back	remarks
 68	1	238	2017	1		Nepenthes edwardsiana(typical form)	Nepenthes edwardsiana(typical form)、自家栽培品、三尾 和久 撮影	三尾 和久：Nepenthes edwardsiana と Nepenthes veitchii（本文参照）	
 68	2	239	2017	4		Drosera neocaledonica	ドロセラ・ネオカレドニカ、2012年ニューカレドニアにて、三野 善弘 撮影	三野 善弘：Drosera neocaledonica と Nepenthes vieillardii（本文参照）	
 68	3	240	2017	7		田代平湿原	モウセンゴケの絨毯、田代平湿原にて、柴田 千晶 撮影	柴田 千晶：2017青森下北方面自生地見学会（本文参照）	
+68	4	241	2017	10		Nepenthes eymae	ネペンテス　エイマエ　タイプ標本になった個体。1983年11月 スラウェシ島にて 倉田 重夫 撮影	三野 善弘：自生地における N. bicalcarata（本文参照） 植松 茂：北海道食虫植物展示会（本文参照）	
