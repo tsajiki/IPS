@@ -4,3 +4,5 @@
 1950年から2018年までの会誌の一覧です。
 
 Table of Contents 1950 - 2018. Japanese version only.
+
+![創刊号](https://github.com/tsajiki/IPS-Japan/blob/master/Journals/001/DSC_3896.jpg)
