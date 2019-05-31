@@ -1,4 +1,4 @@
-# IPS-Japan
+# IPS
 食虫植物研究会 - The Insectivorous Plant Society (IPS, Japan)
 
 1950年から2019年までの会誌の一覧です。
