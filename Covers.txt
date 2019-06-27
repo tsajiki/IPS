@@ -246,3 +246,4 @@ vol	no	number	year	month	feature	explanation_1	explanation_2	back	remarks
 69	3	244	2018	7		Heliamphora pulchella	ヘリアンフォラ プルチェラ栽培品 2017年2月6日 山田 一夫 撮影	逸木 通隆：奄美大島自生地見学会に参加して、他（本文参照）	
 69	4	245	2018	10		Nepenthes ampullaria	ネペンテス・アンプラリア（鮮紅色タイプ） マレーシア・サラワクにて 2007年8月 倉田 重夫 撮影	若林 浩：ダーリングトニアの栽培（本文参照）	
 70	1	246	2019	1		Utricularia arcuata	ウトリキュラリア・アークアータ、インド・デカン高原カース台地にて 2018年9月 田中 桃三 撮影	田中 桃三：インド「デカン高原」観察紀行（本文参照）	
+70	2	247	2019	4		Nepenthes pervillei	ネペンテス・ペルビレイ（栽培品）兵庫県立フラワーセンターにて 土居 寛文 撮影	三尾 和久：N. undulatifolia の観察（本文27ページ）	
