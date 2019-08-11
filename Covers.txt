@@ -247,3 +247,4 @@ vol	no	number	year	month	feature	explanation_1	explanation_2	back	remarks
 69	4	245	2018	10		Nepenthes ampullaria	ネペンテス・アンプラリア（鮮紅色タイプ） マレーシア・サラワクにて 2007年8月 倉田 重夫 撮影	若林 浩：ダーリングトニアの栽培（本文参照）	
 70	1	246	2019	1		Utricularia arcuata	ウトリキュラリア・アークアータ、インド・デカン高原カース台地にて 2018年9月 田中 桃三 撮影	田中 桃三：インド「デカン高原」観察紀行（本文参照）	
 70	2	247	2019	4		Nepenthes pervillei	ネペンテス・ペルビレイ（栽培品）兵庫県立フラワーセンターにて 土居 寛文 撮影	三尾 和久：N. undulatifolia の観察（本文27ページ）	
+70	3	248	2019	7		Darlingtonia californica	ダーリングトニア・カリフォルニカ自生地 2019年 米カリフォルニアにて 本多 真 撮影	本多 真：花咲くコブラの森（本文42ページ） 本多 真：粘着式の食虫植物たちの違い（本文41ページ）	
