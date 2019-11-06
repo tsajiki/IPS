@@ -267,7 +267,7 @@ number	section	order	name	title	start_page	end_page	remarks
 24		4	山川 学三郎	私のダーリングトニア	16		
 24		5	石津 汪	モウセンゴケの薬効	17		
 24		6	小宮 定志	植物の名付けかた	18	21	
-24		7	日下部 勇	Sundew誌始末記	21	26	
+24		7	日下部 勇	“Sundew”誌 始末記	21	26	
 24		8	三村 茂	茂原・八積採集報告	27	27	
 24	会員紹介の欄	9			28		
 24	短信	10			29		
@@ -1389,7 +1389,7 @@ number	section	order	name	title	start_page	end_page	remarks
 108	交換欄	13			59		
 108	会からのお知らせ	14			61		
 108	編集後記	15			63		
-109		1	倉田 重夫	Nepenthes of Mount Kinabalu その後	64		
+109		1	倉田 重夫	“Nepenthes of Mount Kinabalu” その後	64		
 109		2	倉田 重夫	キナバル産ネペンテスの新雑種	65		
 109		3	倉田 重夫	「セレベス産ネペンテスの3新種」の結辞	67		
 109		4	河瀬 晃四郎	ネペンテスとさし木繁殖	67		
