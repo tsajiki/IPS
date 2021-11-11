@@ -1,4 +1,5 @@
-# 食虫植物研究会 - The Insectivorous Plant Society (IPS, J)
+# 食虫植物研究会
+## The Insectivorous Plant Society (IPS, J)
 
 1950年から2021年までの会誌の一覧です。
 
