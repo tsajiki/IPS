@@ -1,9 +1,9 @@
 # 食虫植物研究会
 ## The Insectivorous Plant Society (IPS, J)
 
-1950年から2021年までの会誌の一覧です。
+1950年から2022年までの会誌の一覧です。
 
-Table of Contents 1950 - 2021. Japanese version only.
+Table of Contents 1950 - 2022. Japanese version only.
 
 [会誌検索システム（暫定版）](https://tsajiki.github.io/ips-search/)
 
