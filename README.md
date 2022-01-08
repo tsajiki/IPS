@@ -1,5 +1,6 @@
 # 食虫植物研究会
-## The Insectivorous Plant Society (IPS, J)
+## Insectivorous Plant Society (IPS, J)[^1]
+[^1]: 会の英字表記については次を参照した。食虫植物研究会誌58(3),2007,倉田 重夫,会誌200号発行に思う-編集委員の立場から
 
 1950年から2022年までの会誌の一覧です。
 
