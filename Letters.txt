@@ -1693,3 +1693,4 @@ number	order	title	month	area	name	remarks
 257	7	オンボロハウスで元気に育っています	7月	東京都八丈町	奥山 英機	
 258	1	近況	11月	川口市	益岡 勇	
 258	2	Nepenthes の動画	11月	千代田区	三橋 扶佐子	
+259	1	近況	1月	川口市	益岡 勇	
