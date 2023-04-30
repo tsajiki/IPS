@@ -5,7 +5,7 @@
 1950年から最新号までの会誌の一覧です。[^2]
 [^2]: 一覧作成の経緯については次を参照。佐直達夫(2019).会誌の総目次作成について.食虫植物研究会々誌70(3):通巻248.
 
-Table of Contents 1950 - 2022. Japanese version only.
+Table of Contents 1950 - latest. Japanese version only.
 
 [会誌検索システム（暫定版）](https://tsajiki.github.io/ips-search/)
 
