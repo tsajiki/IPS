@@ -263,3 +263,4 @@ vol	no	number	year	month	feature	explanation_1	explanation_2	back	remarks
 73	4	261	2022	10		Drosera rotundifolia	モウセンゴケ　尾瀬ヶ原 横田代にて　2022年7月 上家 猛 撮影	相良 順一：コウシンソウ自生地見学会（本文参照）	
 74	1	262	2023	1		Pinguicula macroceras f. albiflora	ムシトリスミレ（白花）　八幡平にて　2022年7月 上家 猛 撮影	高知県のタヌキモ自生地　岡村：タヌキモの自生地（本文参照）	
 74	2	263	2023	4		Nepenthes jamban	ネペンテス・ジャンバンの捕虫袋　栽培品　2018年9月9日 中川 泰秀 撮影	ウツボカズラの異例な捕虫方法　中川：Another trap method of Nepenthes（本文参照）	
+74	3	264	2023	7		Nepenthes palawanensis および N. attenboroughii	ウツボカズラ捕虫袋の多型（上段：N. palawanensis，下段：N. attenboroughii）　フィリピン・パラワン島にて 2022年12月 長谷部 光泰 撮影	岡村 正治：観光ハウス内で食虫植物展（本文参照）　三野 善弘：N. madagascariensis の開花（本文参照）	
