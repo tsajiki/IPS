@@ -1716,3 +1716,4 @@ number	order	title	month	area	name	remarks
 266	1	新年会	1月	川口市	益岡 勇	
 266	2	冷たい水で（ひと夏の経験）	1月	川口市	益岡 勇	
 267	1	Hiro's Pitcher Plants 訪問記	6月	奈良県	多田 雅宏	
+269	1	朝のテレビ放送	10月	鎌ケ谷市	倉田 重夫	
