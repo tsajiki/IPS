@@ -269,3 +269,4 @@ vol	no	number	year	month	feature	explanation_1	explanation_2	back	remarks
 75	2	267	2024	4		Drosera albonotata	ドロセラ・アルボノタータ(Drosera albonotata)の開花（栽培品）　2024年5月 麻生 雅久 撮影（本文参照）	観光ハウス内で食虫植物展 岡村 正治（本文参照）	
 75	3	268	2024	7		Pinguicula ramosa	コウシンソウの自生地 6月29日 日光・男体山にて 上家 猛 撮影	杉浦 弘真：夢の島熱帯植物館での展示（本文参照） 写真 若林 浩	
 75	4	269	2024	10		Drosera basifolia	ドロセラ・バシフォリアの自生状態 西オーストラリア州ウォンガンヒルズにて 2024年9月 麻生 雅久 撮影	岡村 正治：観光ハウスで食虫植物展を開催（本文参照）	
+76	1	270	2025	1		Nepenthes X kinabaluensis	ネペンテス×キナバルエンシス　石川 美枝子 氏（会員・植物画家）作品（部分）	Dionaea muscipula の自生状態　アメリカ・ノースカロライナ州にて 2018年8月 長谷部 光泰 撮影（本文参照）	
