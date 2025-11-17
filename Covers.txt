@@ -272,3 +272,4 @@ vol	no	number	year	month	feature	explanation_1	explanation_2	back	remarks
 76	1	270	2025	1		Nepenthes X kinabaluensis	ネペンテス×キナバルエンシス　石川 美枝子 氏（会員・植物画家）作品（部分）	Dionaea muscipula の自生状態　アメリカ・ノースカロライナ州にて 2018年8月 長谷部 光泰 撮影（本文参照）	
 76	2	271	2025	4		Pinguicula balcanica	ピングイクラ・バルカニカ　ブルガリア ピリン国立公園にて 2016.7.25 島井 弘男 撮影	尾花 幸男：ムジナモの野生絶滅から野生復帰（本文参照）	誤りを訂正：野性→野生
 76	3	272	2025	7		Pinguicula crystallina	ピンギクラ・クリスタリナ(Pinguicula crystallina)自生地　トルコ・ブルドゥル県ギュネイ郊外にて 2014年8月 島井 弘男 撮影	島井 弘男：イングランド・湖水地方の Pinguicula vulgaris（本文参照）	
+76	4	273	2025	10		Pinguicula lusitanica	ヒメムシトリスミレ(Pinguicula lusitanica)　英スコットランド・ビュート島にて 2024年7月6日 島井 弘男 撮影	杉浦 弘真：夢の島熱帯植物館展示・捕虫実験教室（本文参照） 2025年8月11日 倉田 重夫 撮影	
